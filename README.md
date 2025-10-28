@@ -1,5 +1,5 @@
 
-                                                                     **Selenium Java Signup Project (OTP via Gmail)**
+                                                    **Selenium Java Signup Project (OTP via Gmail)**
                                                                      
 
 **Overview:**
