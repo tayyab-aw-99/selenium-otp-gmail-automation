@@ -1,5 +1,6 @@
 
-**Selenium Java Signup Project (OTP via Gmail)**
+                                                                     **Selenium Java Signup Project (OTP via Gmail)**
+                                                                     
 
 **Overview:**
 This project automates a user signup process using Selenium WebDriver and TestNG. It includes OTP verification by reading emails from Gmail through JavaMail (IMAP). The goal is to demonstrate a complete end-to-end automation scenario that involves both frontend interaction and backend validation through email.
